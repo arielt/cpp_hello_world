@@ -3,7 +3,17 @@ C++ Hello World
 
 This is a sample task for Binary Score application.
 
-  * task.yml         - configuration file
-  * objective.md     - objective
-  * verification.cpp - verification tests
-  * solutions/       - collection of known solutions
+Mandatory files:
+
+| File          | Purpose               |
+| ------------- | ------------- |
+| task.yml      | configuration file |
+| objective.md  | task's objective |
+| verification.cpp | set of verification tests|
+
+
+Optional:
+
+| Folder          | Purpose               |
+| ------------- | ------------- |
+| solutions/     | known solutions |
