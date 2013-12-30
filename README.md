@@ -33,6 +33,6 @@ Example of configuration file **task.yml**
 | Parameters    | Description   |
 | ------------- | ------------- |
 | subsystem     | language + verification system |
-| time_limit    | time to complete task, in minutes |
+| time_limit    | time to complete the task, in minutes |
 | verification_timeout | time to complete verification, in seconds|
 
