@@ -1,5 +1,6 @@
 ---
-  type:       cpp
-  time_limit: 15 minutes
+  subsystem:            cpp
+  time_limit:           15
+  verification_timeout: 30
 ...
 
