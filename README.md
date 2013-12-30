@@ -3,6 +3,8 @@ C++ Hello World
 
 This is a sample task for Binary Score application.
 
+## Layout
+
 Mandatory files:
 
 | File          | Purpose               |
@@ -17,6 +19,9 @@ Optional:
 | Folder          | Purpose               |
 | ------------- | ------------- |
 | solutions/     | known solutions |
+
+
+## Configuration
 
 Example of configuration file **task.yml**
 
