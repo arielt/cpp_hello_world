@@ -1,6 +1,4 @@
----
-  subsystem:            cpp
-  time_limit:           15
-  verification_timeout: 30
-...
+subsystem:            cpp
+time_limit:           15
+verification_timeout: 30
 

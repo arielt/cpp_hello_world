@@ -25,11 +25,9 @@ Optional:
 
 Example of configuration file **task.yml**
 
-    ---
-      subsystem:            cpp
-      time_limit:           15
-      verification_timeout: 30
-    ...
+    subsystem:            cpp
+    time_limit:           15
+    verification_timeout: 30
 
 
 | Parameters    | Description   |
