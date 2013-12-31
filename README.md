@@ -1,7 +1,7 @@
 C++ Hello World
 ===============
 
-This is a sample task for Binary Score application.
+This is a sample task for Binary Score application - https://github.com/arielt/bs
 
 ## Layout
 
