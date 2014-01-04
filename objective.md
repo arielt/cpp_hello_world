@@ -1,6 +1,6 @@
 ## C++ Hello World
 <br>
-This is an example of assignment that can be created for the candidate. You are going to experience, what does it feel to deal with the real task on a real engine while the time is limited.
+This is an example of assignment that can be created for the candidate. You are going to experience, what does it feel to deal with the real task on a real engine when the time is limited.
 
 <br>
 Print out:
