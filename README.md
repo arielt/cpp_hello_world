@@ -1,7 +1,7 @@
 C++ Hello World
 ===============
 
-This is a sample task for Binary Score application.
+This is a sample task for Binary Score application - https://github.com/arielt/bs
 
 ## Layout
 
@@ -33,6 +33,6 @@ Example of configuration file **task.yml**
 | Parameters    | Description   |
 | ------------- | ------------- |
 | subsystem     | language + verification system |
-| time_limit    | time to complete task, in minutes |
+| time_limit    | time to complete the task, in minutes |
 | verification_timeout | time to complete verification, in seconds|
 
